@@ -113,6 +113,3 @@ ghdl -r nome_do_testbench
 ```
 ---
 
-## Objetivo
-
-Comparar o comportamento de diferentes arquiteturas de somadores rápidos quando aplicadas a uma SAD Tree 4x4, verificando sua corretude funcional através de simulações em VHDL utilizando o GHDL.
