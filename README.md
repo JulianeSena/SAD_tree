@@ -58,11 +58,7 @@ Em vez de realizar todas as somas sequencialmente, as diferenças são organizad
 * Menor atraso de propagação;
 * Melhor desempenho do circuito.
 
-Neste projeto é utilizada uma **SAD Tree 4x4**, composta por:
-
-* 16 diferenças absolutas de entrada;
-* Estrutura hierárquica de somadores;
-* Diferentes arquiteturas de somadores rápidos para comparação de desempenho.
+Neste projeto é utilizada uma **SAD Tree 4x4**.
 
 ---
 
@@ -74,6 +70,12 @@ Os experimentos deste repositório utilizam diferentes arquiteturas de somadores
 * Área ocupada;
 * Consumo de potência;
 * Eficiência geral da arquitetura.
+
+* Somadores utilizados nos testes:
+* Ripple Carry Adder
+* Carry Select Adder
+* Carry Look-Ahead Adder
+* Carry Save Adder
 
 ---
 
