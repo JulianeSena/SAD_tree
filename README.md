@@ -36,7 +36,7 @@ O cálculo consiste em:
 Matematicamente:
 
 [
-SAD = \sum |A(i,j) - B(i,j)|
+SAD = \sum |A(i,j) - B(i, j)|
 ]
 
 Onde:
